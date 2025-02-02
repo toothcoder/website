@@ -184,7 +184,7 @@ a:hover {color: yellowgreen;}
 
 /* project 1 */
 .card3:nth-child(1) {
-  background: url("../assets/project/1.png") center center/cover;
+  background: url("https://github.com/toothcoder/images/blob/main/1.png?raw=true") center center/cover;
 }
 
 /* Project 2 */
