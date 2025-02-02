@@ -167,7 +167,7 @@ a:hover {color: yellowgreen;}
 
 /* project 1 */
 .card:nth-child(1) {
-  background: url("https://github.com/toothcoder/images/blob/071fec8db102cbea3ab2cc951c6a5cbbeae363ea/phiast.gif") center center/cover;
+  background: url("https://github.com/toothcoder/images/blob/main/phiast.gif?raw=true") center center/cover;
 }
 
 /* Project 2 */
