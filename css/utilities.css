@@ -122,7 +122,7 @@ a:hover {color: yellowgreen;}
   color: #ffffff;
   border-radius: 5px;
   transition: 0.4s ease-in-out;
-  cursor: pointer;
+  
 	
     pointer-events: none; 
 
@@ -133,7 +133,7 @@ a:hover {color: yellowgreen;}
   color: #ffffff;
   border-radius: 5px;
   transition: 0.4s ease-in-out;
-  cursor: pointer;
+ 
 		pointer-events: none; 
 
 }
@@ -144,7 +144,7 @@ a:hover {color: yellowgreen;}
   color: #ffffff;
   border-radius: 5px;
   transition: 0.4s ease-in-out;
-  cursor: pointer;
+
 	pointer-events: none; 
 
 }
