@@ -398,9 +398,8 @@ body {
     border-radius: 5px;
     width: 80%;
   }
-	@media {
-		max-width: 100%; 
-display: block; 
-height: auto;
-	}
+	.responsive-image {
+  height: auto;
+  width: 100%;
+}
 }
