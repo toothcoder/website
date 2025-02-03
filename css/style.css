@@ -21,7 +21,7 @@
 @import url(https://fonts.googleapis.com/css2?family=Pangolin&display=swap);
 
 
-
+font-family: system,-apple-system,"Pangolin";
 
 .container2 {
  display: grid;
